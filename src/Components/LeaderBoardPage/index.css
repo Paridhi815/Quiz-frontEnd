@@ -1,0 +1,80 @@
+.Score{
+    margin:1%;
+}
+
+.Score-Text{
+    font-family:'Helvetica nueue';
+    color: orange;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.big{
+    font-size: 40px;
+    font-family:'Helvetica nueue';
+    font-weight: 100;
+}
+.small{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Score-Number{
+    padding-left: 1%;
+}
+
+.Lead{
+    font-family:'Helvetica nueue';
+    font-weight: bolder;
+    font-size: 25px;
+    align-content: center;
+    padding-left: 46%;
+}
+
+.LeaderBoardPage{
+    display: flex;
+    flex-direction: column;
+}
+
+.Champions{
+    background-color: rgb(0,189,229);
+    margin: 2%;
+    border: 2px solid black;
+    height:50px;
+    color: white;
+    font:"Helvetica nueue";
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.highlight {
+    background-color: orange;
+}
+
+.name{
+    padding-left: 2%;
+}
+
+.score{
+    padding-left: 90%;
+    /* margin-right: -4%; */
+}
+
+.again-button{
+    margin-top:5%;
+    margin-left: 40%;
+    margin-bottom:10%; 
+    background-color: white;
+    border:3px solid black;
+    border-radius: 15px;
+    width: 20%;
+    height: 60px;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.black{
+ color: black;
+}

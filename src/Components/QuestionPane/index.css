@@ -1,0 +1,29 @@
+.QuestionPane{
+    margin: 2%;
+    border: 2px solid black;
+    height: 500px;
+}
+.Question-number{
+    border-bottom: 2px solid black;
+    padding: 1%;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.Questions{
+    padding: 1%;
+    background-color: rgb(68,199,245);
+    border-bottom: 2px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    height:50px;
+    font-family: 'Helvetica nueue';
+    font-weight: bold;
+    font-size: 20px;
+    vertical-align:middle; 
+}
+
+
+.options{
+    padding: 2%;
+}

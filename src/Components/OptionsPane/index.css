@@ -1,0 +1,16 @@
+.OptionPane{
+    padding-top: 5px;
+    padding-left: 2%;
+    display: flex;
+    flex: row;
+}
+.text{
+    font-family: 'Helvetica nueue';
+    font-weight: bold;
+    font-size: 20px;
+    vertical-align:middle; 
+    margin-top: -3px;
+}
+.radio{
+    vertical-align:middle; 
+}
